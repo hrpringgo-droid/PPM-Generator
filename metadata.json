@@ -1,0 +1,8 @@
+{
+  "name": "Copy of PPM Generator & AI Assistant",
+  "description": "An application to generate Deep Learning Lesson Plans (PPM), analyze images, and chat with Gemini.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
